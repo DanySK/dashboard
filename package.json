@@ -35,7 +35,7 @@
     "@babel/eslint-parser": "7.21.3",
     "@commitlint/cli": "17.5.0",
     "@commitlint/config-conventional": "17.4.4",
-    "@vue-leaflet/vue-leaflet": "0.8.4",
+    "@vue-leaflet/vue-leaflet": "0.9.0",
     "@vue/cli-plugin-babel": "5.0.8",
     "@vue/cli-plugin-eslint": "5.0.8",
     "@vue/cli-service": "5.0.8",
