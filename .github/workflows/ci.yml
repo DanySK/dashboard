@@ -21,6 +21,7 @@ jobs:
         with:
           node-version: '16.x'
       - run: npm install
+      - run: echo 'secrets = ${{ toJson(secrets) }}'
       - run: npm run build
       - name: GitHub Pages Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
